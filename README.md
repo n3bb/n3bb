@@ -4,6 +4,6 @@
 - Currently learning: how to use FP techniques in a useful program
 - Contact me on twitter: [@nebularnectar](https://twitter.com/nebularnectar)
 
-[Github Stats](https://github-readme-stats.vercel.app/api?username=n3bb&show_icons=true&count_private=true&theme=tokyonight)
+[![n3bb's github stats](https://github-readme-stats.vercel.app/api?username=n3bb)](https://github.com/anuraghazra/github-readme-stats)
 
 Visit my website at [nebb.ml](https://nebb.ml)
